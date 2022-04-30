@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>P2_2019AM606_2019LD601.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
