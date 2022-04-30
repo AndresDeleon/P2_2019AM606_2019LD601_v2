@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Q/4gPOXVYSLb6jjx2TgfTH15S80oar6zTHf1b3tqKubQX2/ohE7dbQrl5UiKODK+3/bYsDp7ezOXXX0x5qz7yQ==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\Universidad\\DPWA2022\\P2_2019AM606_2019LD601\\P2_2019AM606_2019LD601\\P2_2019AM606_2019LD601.csproj",
@@ -100,11 +99,12 @@
     "C:\\Users\\aldac\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\aldac\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "fsB6WeGI1FWTkAhhR9ER59aYIScHhi1kxlSIvh2RsIDH6HTTxxiom+3IeHHrV8mQNfMW9ovXYtud5LyUKA9+1Q==",
-  "success": true,
-  "projectFilePath": "C:\\practicasasp\\PARCIAL2\\P2_2019AM606_2019LD601\\P2_2019AM606_2019LD601\\P2_2019AM606_2019LD601.csproj",
-  "expectedPackageFiles": [],
->>>>>>> 3f92e332d234669fd6c160ae8823da4715cf07c3
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Documentos\\Universidad\\DPWA2022\\P2_2019AM606_2019LD601\\P2_2019AM606_2019LD601\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
